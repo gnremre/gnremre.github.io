@@ -1,0 +1,6 @@
+User-agent: *
+
+Disallow: *captcha
+
+Host: sokruta.com.ua
+Sitemap: http://sokruta.com.ua/sitemap.xml
